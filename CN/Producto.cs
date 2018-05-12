@@ -73,7 +73,7 @@ namespace CN
                 {
                     //update
                     parametros.Add(new SqlParameter("@idProducto", idProducto));
-                    //string nombreSP = "dbo.SPUProducto";
+                    //string nombreSP = "dbo.SPUProductos";
                     /*SqlParameter[] nuevoParametros.ToArray();
                     bool fueCorrecto = (DataBaseHelper)
 

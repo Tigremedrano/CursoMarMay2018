@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN", "CN\CN.csproj", "{8E98
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeDepot", "HomeDepot\HomeDepot.csproj", "{D5777913-67F9-40E9-8483-7C6577BECFEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasUnitarias", "PruebasUnitarias\PruebasUnitarias.csproj", "{61F4CA53-3FAC-4807-897D-8858254FC2DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D5777913-67F9-40E9-8483-7C6577BECFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5777913-67F9-40E9-8483-7C6577BECFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5777913-67F9-40E9-8483-7C6577BECFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61F4CA53-3FAC-4807-897D-8858254FC2DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F4CA53-3FAC-4807-897D-8858254FC2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F4CA53-3FAC-4807-897D-8858254FC2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F4CA53-3FAC-4807-897D-8858254FC2DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
